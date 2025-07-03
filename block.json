@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "name": "Text Change Tracker",
+    "description": "Track changes in long text fields",
+    "icon": "📝",
+    "frontendEntry": "./frontend/index.js"
+}
