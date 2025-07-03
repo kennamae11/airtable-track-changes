@@ -1,0 +1,12 @@
+{
+    "name": "text-change-tracker",
+    "version": "1.0",
+    "description": "Track changes in long text fields",
+    "main": "frontend/index.js",
+    "scripts": {
+        "start": "block run"
+    },
+    "dependencies": {
+        "@airtable/blocks": "^1.0"
+    }
+}
